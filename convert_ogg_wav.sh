@@ -1,4 +1,9 @@
 #!/bin/sh
+#
+# Andrey A. Ugolnik
+# http://www.ugolnik.info
+# andrey@ugolnik.info
+#
 # convert all OGG files in the current directory to 44100/16/1 WAV.
 
 rm -f *.wav

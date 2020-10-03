@@ -1,4 +1,9 @@
 #!/bin/sh
+#
+# Andrey A. Ugolnik
+# http://www.ugolnik.info
+# andrey@ugolnik.info
+#
 # convert all WAV files in the current directory to MP3.
 
 for i in *.wav; do

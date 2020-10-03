@@ -1,4 +1,9 @@
 #!/bin/sh
+#
+# Andrey A. Ugolnik
+# http://www.ugolnik.info
+# andrey@ugolnik.info
+#
 # A tool that removes metadata from WAV files.
 
 for i in *.wav; do

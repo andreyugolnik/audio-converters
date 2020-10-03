@@ -1,4 +1,9 @@
 #!/bin/sh
+#
+# Andrey A. Ugolnik
+# http://www.ugolnik.info
+# andrey@ugolnik.info
+#
 # convert all input file to MP3 and 1ch_44KHz_OGG.
 
 if test -f "$1"
